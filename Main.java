@@ -1,6 +1,6 @@
 class Main{
     public static void main(String args[]){
         Square.square();
-        Square.rightangeTriangle();
+        Triangle.rightangeTriangle();
     }
 }
