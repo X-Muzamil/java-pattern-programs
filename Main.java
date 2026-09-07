@@ -4,6 +4,9 @@ class Main{
         Triangle.rightangeTriangle();
         Diamond.paramid();
         Diamond.diamond();
+        Number.numbers();
+        Number.N_paramid();
+        Number.N_Reverseparamid();
     }
 
 
