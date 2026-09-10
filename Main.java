@@ -7,6 +7,8 @@ class Main{
         Number.numbers();
         Number.N_paramid();
         Number.N_Reverseparamid();
+        Alphabet.alphabet();
+        Alphabet.alphabet_paramid();
     }
 
 
